@@ -100,6 +100,7 @@
  * Firebase <br/>
  ### Backend <br/>
  * Express js <br/>
+ * mongodb
  ### Deploy <br/>
  * Frontend: Firebase <br/>
  * Backend: Vercel <br/>
