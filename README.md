@@ -21,9 +21,13 @@
 
 # First Site
  Live_link: https://real-state-management-c0794.web.app/ <br/>
- Client_link: https://github.com/programming-hero-web-course1/b8a12-client-side-ramohin1236 <br/>
- Server_link:  https://github.com/programming-hero-web-course1/b8a12-server-side-ramohin1236 <br/> <br/>
-
+ Client_link: https://github.com/ramohin1236/batch-8-a-12-client <br/>
+ Server_link:  https://github.com/ramohin1236/batch-8-a-12-server <br/> <br/>
+ ## For Why This WebSite? <br/>
+ * You can use this website for manage your customer
+ * You can make a customer admin
+ * Also added customer request
+ * And calncel their requiest
  ## Already use Admin and local customer pannel
  *  Admin email: mohinr30@gmail.com
  *  Admin password: Abc123@
@@ -40,6 +44,45 @@
  ### Deploy <br/>
  * Frontend: Firebase <br/>
  * Backend: Vercel <br/>
+
+ # Second Site
+ Live_link:  https://book-blog-9827e.web.app/ <br/>
+ Client_link: https://github.com/ramohin1236/batch-8-a-11-client <br/>
+ Server_link: https://github.com/ramohin1236/batch-8-a-11-server <br/>
+
+ #### Usage_Technology <br/>
+ 
+ ### Frontend <br/>
+ * React <br/>
+ * React_hook_form <br/>
+ ### Authentication <br/>
+ * Firebase <br/>
+ ### Backend <br/>
+ * Express js <br/>
+ * Mongodb <br/>
+ ### Deploy <br/>
+ * Frontend: Firebase <br/>
+ * Backend: Vercel <br/>
+
+
+# Third Site
+ Live_link: https://automotive-motors.web.app/ <br/>
+ Client_link: https://github.com/ramohin1236/batch-8-a-10-client <br/>
+ Server_link: https://github.com/ramohin1236/batch-8-a-10-server <br/>
+
+ #### Usage_Technology <br/>
+ 
+ ### Frontend <br/>
+ * React <br/>
+ 
+ ### Authentication <br/>
+ * Firebase <br/>
+ ### Backend <br/>
+ * Express js <br/>
+ ### Deploy <br/>
+ * Frontend: Firebase <br/>
+ * Backend: Vercel <br/>
+
  
 ## Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
