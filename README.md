@@ -24,7 +24,8 @@
 ## Top_Languages_By_Repo                                           ## Top_Languages_By_Commit
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramohin1236&theme=default)            ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramohin1236&theme=default)
 
-
+## Stats                          ## Commits
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramohin1236&theme=default)            ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramohin1236&theme=default&utcOffset=8)
  
 
 ## MY Own Site
