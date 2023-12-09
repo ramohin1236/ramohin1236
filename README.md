@@ -50,9 +50,6 @@
 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramohin1236&theme=algolia)          ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramohin1236&theme=algolia&utcOffset=8)
- 
-
 ## MY Own Site
 
 # First Site
