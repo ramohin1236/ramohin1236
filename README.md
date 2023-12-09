@@ -19,7 +19,10 @@
 
 
 ## MY_Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramohin1236&theme=merko&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramohin1236&theme=merko&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 
 ## My_Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramohin1236&theme=algolia)
