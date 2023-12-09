@@ -20,10 +20,22 @@
 ## MY Own Site
 
 ### First Site
- LINK: https://real-state-management-c0794.web.app/ <br/>
- Client_link: https://github.com/programming-hero-web-course1/b8a12-client-side-ramohin1236
- Server_link:  https://github.com/programming-hero-web-course1/b8a12-server-side-ramohin1236
-
+ Live_link: https://real-state-management-c0794.web.app/ <br/>
+ Client_link: https://github.com/programming-hero-web-course1/b8a12-client-side-ramohin1236 <br/>
+ Server_link:  https://github.com/programming-hero-web-course1/b8a12-server-side-ramohin1236 <br/> <br/>
+ #### Usage_Technology <br/>
+ ### Frontend <br/>
+ * React <br/>
+ * React_hook_form <br/>
+ ### Authentication <br/>
+ * Firebase <br/>
+ ### Backend <br/>
+ * Express js <br/>
+ * Mongodb <br/>
+ ### Deploy <br/>
+ * Frontend: Firebase <br/>
+ * Backend: Vercel <br/>
+ 
 ## Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 🔭 I’m wanted to develop my education with experience ...
