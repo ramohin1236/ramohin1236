@@ -49,7 +49,13 @@
  Live_link:  https://book-blog-9827e.web.app/ <br/>
  Client_link: https://github.com/ramohin1236/batch-8-a-11-client <br/>
  Server_link: https://github.com/ramohin1236/batch-8-a-11-server <br/>
-
+ 
+## For Why This WebSite? <br/>
+ * This is a Book_blog website
+ * You can gain some knowlege for books and it help you to choose books for buy books
+ * You can add a book and help other for why they read this book!!
+ * There are some category books
+ * you also can filter books from recently added
  #### Usage_Technology <br/>
  
  ### Frontend <br/>
@@ -69,7 +75,11 @@
  Live_link: https://automotive-motors.web.app/ <br/>
  Client_link: https://github.com/ramohin1236/batch-8-a-10-client <br/>
  Server_link: https://github.com/ramohin1236/batch-8-a-10-server <br/>
-
+## For Why This WebSite? <br/>
+ * You can use this website For choose some car
+ * You can gain some knowlege and features 
+ * Also added your choosable car in your cart
+ * And calncel car from your card
  #### Usage_Technology <br/>
  
  ### Frontend <br/>
