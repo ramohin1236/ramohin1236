@@ -21,6 +21,12 @@
 ## My_Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramohin1236&theme=algolia)
 
+## Top_Languages_By_Repo
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramohin1236&theme=default)
+
+## Top_Languages_By_Commit
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramohin1236&theme=default)
+
 ## MY Own Site
 
 # First Site
