@@ -2,7 +2,7 @@
 ![I’M](https://github.com/ramohin1236/ramohin1236/assets/108376758/225dfcf1-4a0e-41c9-8ffe-5987e7a0ada0)
 
 
-**ramohin1236/ramohin1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
