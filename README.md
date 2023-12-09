@@ -26,7 +26,12 @@
 </div>
 
 ## My_Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramohin1236&theme=algolia)
+<div align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramohin1236&theme=algolia)
+
+</div>
+
 
 ## Top_Languages_By_Repo                                          & Top_Languages_By_Commit
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramohin1236&theme=algolia)           ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramohin1236&theme=algolia)
