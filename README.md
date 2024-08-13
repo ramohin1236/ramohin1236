@@ -52,80 +52,63 @@
 
 ## MY Own Site
 
-# State Management
- Live_link: https://real-state-management-c0794.web.app/ <br/>
- Client_link: https://github.com/ramohin1236/batch-8-a-12-client <br/>
- Server_link:  https://github.com/ramohin1236/batch-8-a-12-server <br/> <br/>
+# Mern-Stack Blog web-site  
+<b> Live_link:</b> https://new-blog-app.onrender.com/ <br/>
+<b> Code_link:</b> https://github.com/ramohin1236/mern-blog-app
+
  ## For Why This WebSite? <br/>
- * You can use this website for manage your customer
- * You can make a customer admin
- * Also added customer request
- * And calncel their requiest
+ * In this web site, blogs can be created,deleted and updated in different categories.Basically
+   people can write blogs according to their talents on different things and other users can read
+   those blogs.
+ * These blogs can be sorted by categories,old blogs, new blogs and can also be searched by
+   name. Anyone can comment on the blogs here and can like and comment on the comments.
+ * Here is also a difference between Admin and normal users.Admin will get opportunity to
+   manage dashboard, he can manage blog and users.
+ * An option has been created on the home page where the user can see the recently added blogs
+   after loggin in.
  ## Already use Admin and local customer pannel
- *  Admin email: mohinr30@gmail.com
- *  Admin password: Abc123@
+ * <b> Admin email:<b> admin@gmai.com 
+ * <b> Admin password:<b> 123456 <br/>
  #### Usage_Technology <br/>
- 
- ### Frontend <br/>
- * React <br/>
- * React_hook_form <br/>
- ### Authentication <br/>
- * Firebase <br/>
- ### Backend <br/>
- * Express js <br/>
- * Mongodb <br/>
- ### Deploy <br/>
- * Frontend: Firebase <br/>
- * Backend: Vercel <br/>
+<b> Technologies :</b> React js, Mongoose, Node js, Express js <br/>
+<b> Tools: </b>: Firebase , Bycript, redux-toolkit, lottie-react, axios, moment, react-quill, flowbite, typewritereffect, tailwind, tailwind-scrollbar, react-quill.<br/> <br/>
 
- # Book Blog 
- Live_link:  https://book-blog-9827e.web.app/ <br/>
- Client_link: https://github.com/ramohin1236/batch-8-a-11-client <br/>
- Server_link: https://github.com/ramohin1236/batch-8-a-11-server <br/>
+
+ # Chat Application || Real-time-chat
+<b> Live_link:</b> https://chat-application-nu-lilac.vercel.app/?fbclid=IwAR0KHqHD8GTEw4pwhgVt64V_FDz_hbts_oRPEcgYBk9Ksz4vuSrGj4epZW4 <br/>
+<b> Code_link:</b> https://github.com/ramohin1236/chat-application
+ 
  
 ## For Why This WebSite? <br/>
- * This is a Book_blog website
- * You can gain some knowlege for books and it help you to choose books for buy books
- * You can add a book and help other for why they read this book!!
- * There are some category books
- * you also can filter books from recently added
- #### Usage_Technology <br/>
+ * Anyone can use this website with real time for chatting. 
+ * By using this application any company or anyone can chat with their friends by creating an
+   account.
+ * You can send pictures and messages if you want while exchanging views here
+ * You can also exchange opinions by creating groups here. 
  
- ### Frontend <br/>
- * React <br/>
- * React_hook_form <br/>
- ### Authentication <br/>
- * Firebase <br/>
- ### Backend <br/>
- * Express js <br/>
- * Mongodb <br/>
- ### Deploy <br/>
- * Frontend: Firebase <br/>
- * Backend: Vercel <br/>
+ #### Usage_Technology <br/>
+ <b>Technologies:</b> Next js, Mongoose <br/> 
+ <b>Tools:</b> Material UI, Pusher, Pusher js, Cloudinary, Bcryptjs
+ 
 
-
-# Buy Brand Car
- Live_link: https://automotive-motors.web.app/ <br/>
- Client_link: https://github.com/ramohin1236/batch-8-a-10-client <br/>
- Server_link: https://github.com/ramohin1236/batch-8-a-10-server <br/>
+# Sodium Cafe || Resturant website
+<b> Live_link:</b> https://sodium-cafe-87d7c.web.app <br/>
+<b> Client_link:</b> https://github.com/ramohin1236/sodium-cafe <br/>
+<b> Server_link:</b> https://github.com/ramohin1236/sodium-cafe-mongoose
 ## For Why This WebSite? <br/>
- * You can use this website For choose some car
- * You can gain some knowlege and features 
- * Also added your choosable car in your cart
- * And calncel car from your card
+ * This is a resturant’s web site, where a specific party will controli it.
+ * Here customers can buy and pay for the products sold by the restaurant.
+ * An admin can control his customer and he can add his restaurant food items.
+ * The security of the web site is ensured by JWT token . Here admin can’t control his coustomer.
+
+ ## Already use Admin and local customer pannel
+ * <b> Admin email:<b> mohinr2@gmail.com <br/>
+ * <b> Admin password:<b> 123Abc <br/>
+
  #### Usage_Technology <br/>
  
- ### Frontend <br/>
- * React <br/>
- 
- ### Authentication <br/>
- * Firebase <br/>
- ### Backend <br/>
- * Express js <br/>
- * mongodb
- ### Deploy <br/>
- * Frontend: Firebase <br/>
- * Backend: Vercel <br/>
+<b> Technologies :</b> React js, Mongoose, Node js, Express js <br/>
+<b> Tools: </b>: Firebase , Bycript, axios, daisy ui, typewritereffect, tailwind, tailwind-scrollbar, react-quill.<br/> <br/>
 
  
 ## Here are some ideas to get you started:
