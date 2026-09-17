@@ -1,8 +1,5 @@
 <img width="2056" height="765" alt="ChatGPT Image Sep 17, 2026, 10_54_04 PM" src="https://github.com/user-attachments/assets/beb8d93e-b064-4e25-804a-b6c81045078d" />
 
-![I’M](https://github.com/ramohin1236/ramohin1236/assets/108376758/225dfcf1-4a0e-41c9-8ffe-5987e7a0ada0)
-
-
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
